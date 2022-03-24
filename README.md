@@ -22,13 +22,17 @@ Some say faster, some say slower. But a good addition nevertheless. If you want 
 
 `firstDate = False`
 
-### Your first name
+### Your first name(s)
 
-`firstName = 'Test'`
+Array with first names, must match numberOfPeople.
 
-### Your last name
+`firstNames = ['Test', 'Test2']`
 
-`lastName = 'Testsson'`
+### Your last name(s)
+
+Array with last names, must match numberOfPeople.
+
+`lastNames = ['Testsson', 'Testsson']`
 
 ### Your email
 
@@ -37,6 +41,12 @@ Some say faster, some say slower. But a good addition nevertheless. If you want 
 ### Your phone number
 
 `phoneNumber = '076127567'`
+
+### Number of people
+
+Change this to book for more than one person. firstNames and lastNames must contain equal amount.
+
+`numberOfPeople = 1`
 
 ### Manual verify
 
